@@ -98,31 +98,25 @@
     },
     {
       "name": "CANADA 🇨🇦 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/2cnd.ovpn",
-      "username": "opentunnel.net-at4gmoy56",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/canada_racevpn.ovpn",
+      "username": "racevpn.com-momo2015c",
       "password": "mo1234"
     },
     {
       "name": "CANADA 🇨🇦 2",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uae.ovpn",
-      "username": "opentunnel.net-at4gmoy56",
-      "password": "mo1234"
-    },
-    {
-      "name": "CANADA 🇨🇦 3",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "CANADA 🇨🇦 4",
+      "name": "CANADA 🇨🇦 3",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
       "name": "INDIA 🇮🇳 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/3ind.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/sshocean-ind47mo_in-udp.ovpn",
       "username": "racevpn.com-indfre45md",
       "password": "mo1234"
     },
@@ -132,11 +126,5 @@
       "username": "racevpn.com-indfre45md",
       "password": "mo1234"
     },
-    {
-      "name": "KAZAKHSTAN 🇰🇿 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnwg/refs/heads/main/kz_racevpn.ovpn",
-      "username": "racevpn.com-sgp47mp",
-      "password": "mo1234"
-    }
   ]
 }
