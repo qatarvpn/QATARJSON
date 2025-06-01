@@ -80,7 +80,7 @@
     },
     {
       "name": "CANADA 🇨🇦 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/canada_racevpn.ovpn",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/canada_racevpn.ovpn",
       "username": "racevpn.com-momo2015c",
       "password": "mo1234"
     },
@@ -104,7 +104,7 @@
     },
     {
   "name": "SINGAPORE 🇸🇬 1",
-  "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/singapore2_racevpn.ovpn",
+  "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/singapore2_racevpn.ovpn",
   "username": "racevpn.com-sgp47nj",
   "password": "mo1234"
 }
