@@ -38,12 +38,18 @@
     },
     {
       "name": "GERMANY 🇩🇪 1",
+      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/devip.ovpn",
+      "username": "6540e049255bd7b3797c144c33ab49bc",
+      "password": "38ebb997bb01a345ab9ef74ba19b151b"
+    },
+    {
+      "name": "GERMANY 🇩🇪 2",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "GERMANY 🇩🇪 2",
+      "name": "GERMANY 🇩🇪 3",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
