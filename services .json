@@ -1,31 +1,25 @@
 {
   "vpn_servers": [
     {
-      "name": "FRANCE 🇫🇷 1",
+      "name": "FRANCE 🇫🇷 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/france_racevpn.ovpn",
       "username": "racevpn.com-fr1mo53racevpn.com-fr1mo53",
       "password": "mo1234"
     },
     {
-      "name": "FRANCE 🇫🇷 2",
+      "name": "FRANCE 🇫🇷 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "FRANCE 🇫🇷 3",
+      "name": "FRANCE 🇫🇷 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "UNITED STATES 🇺🇲 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/unitedstates_racevpn.ovpn",
-      "username": "racevpn.com-usa77tests",
-      "password": "mo1234"
-    },
-    {
-      "name": "UNITED STATES 🇺🇲 2",
+      "name": "UNITED STATES 🇺🇲 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/us2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
@@ -37,13 +31,7 @@
       "password": "cf32e5w"
     },
     {
-      "name": "GERMANY 🇩🇪 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/devip.ovpn",
-      "username": "6540e049255bd7b3797c144c33ab49bc",
-      "password": "38ebb997bb01a345ab9ef74ba19b151b"
-    },
-    {
-      "name": "GERMANY 🇩🇪 2",
+      "name": "GERMANY 🇩🇪 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/de1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
@@ -55,70 +43,40 @@
       "password": "cf32e5w"
     },
     {
-      "name": "NETHERLANDS 🇳🇱 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/nlsccn.ovpn",
-      "username": "racevpn.com-nl6mo",
-      "password": "mo1234"
-    },
-    {
       "name": "UNITED KINGDOM 🇬🇧 1",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "UNITED KINGDOM 🇬🇧 2",
+      "name": "UNITED KINGDOM 🇬🇧 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/uk2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
-      {
-      "name": "POLAND 🇵🇱 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/poland_racevpn.ovpn",
-      "username": "racevpn.com-polanda4m",
-      "password": "mo1234"
-    },
     {
-      "name": "POLAND 🇵🇱 2",
+      "name": "POLAND 🇵🇱 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "POLAND 🇵🇱 3",
+      "name": "POLAND 🇵🇱 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/pl1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "CANADA 🇨🇦 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/canada_racevpn.ovpn",
-      "username": "racevpn.com-momo2015c",
-      "password": "mo1234"
-    },
-    {
-      "name": "CANADA 🇨🇦 2",
+      "name": "CANADA 🇨🇦 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca1.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
     },
     {
-      "name": "CANADA 🇨🇦 3",
+      "name": "CANADA 🇨🇦 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/ca2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
-    },
-    {
-      "name": "INDIA 🇮🇳 1",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/sshocean-ind47mo_in-udp.ovpn",
-      "username": "racevpn.com-indfre45md",
-      "password": "mo1234"
-    },
-    {
-  "name": "SINGAPORE 🇸🇬 1",
-  "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/singapore2_racevpn.ovpn",
-  "username": "racevpn.com-sng47mp",
-  "password": "mo1234"
-}
+    }
   ]
 }
