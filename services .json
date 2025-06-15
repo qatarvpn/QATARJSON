@@ -2,12 +2,6 @@
   "vpn_servers": [
     {
       "name": "FRANCE 🇫🇷 ",
-      "config_url": "https://raw.githubusercontent.com/qatarvpn/QATARJSON/refs/heads/main/france_racevpn.ovpn",
-      "username": "racevpn.com-fr1mo53",
-      "password": "mo1234"
-    },
-    {
-      "name": "FRANCE 🇫🇷 ",
       "config_url": "https://raw.githubusercontent.com/qatarvpn/vpnme/refs/heads/main/fr2.ovpn",
       "username": "vpnbook",
       "password": "cf32e5w"
